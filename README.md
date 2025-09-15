@@ -1,7 +1,5 @@
 # 👋 Hi there, welcome to my GitHub!
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Mansoor+Ahmed+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer+%7C+Backend+Dev;Android+%26+Kotlin+Developer;Cybersecurity+Enthusiast;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
 
 I'm **Durga Prasad**, a passionate developer who loves exploring technology and building cool stuff 🚀.  
 Here you'll find projects ranging from backend systems to mobile apps and experiments with different programming languages.  
